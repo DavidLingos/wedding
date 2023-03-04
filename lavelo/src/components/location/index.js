@@ -1,9 +1,6 @@
 import React from 'react'
-import {Link} from 'react-router-dom'
 import Sectiontitle from '../section-title'
-import strory1 from '../../images/events/1.jpg'
-import strory2 from '../../images/events/2.jpg'
-import strory3 from '../../images/events/3.jpg'
+import strory1 from '../../images/events/saumburk.jpg'
 
 import './style.css'
 
@@ -27,7 +24,9 @@ const Location = () => {
                                 <h3>Svatba</h3>
                                 <span>Sobota, 2. září 2023, 12:00 - ?</span>
                                 <span>Hotel Pod Šaumburkem, Rajnochovice 17, 768 71 Rajnochovice</span>
-                                <p>Tady Kačenka napíše, jak jsme došli k tomuto místo </p>
+                                <p>Místo jsme vybrali hlavně kvůli tomu, že rekreační středisko je uprostřed krásné přírody Hostýnských vrchů.<br/>
+                                    Obřad se bude konat přímo na zahradě hotelu pod širým nebem.<br/>
+                                    V restauraci je dost místa pro všech 80 pozvaných svatebčanů a prostorná terasa nechť bude místem, kde veselka se bude odehrávati. </p>
                                 <a target="_blank" href="https://www.google.com/maps/place/Hotel+Pod+%C5%A0aumburkem/@49.4173571,17.7733728,15.22z/data=!4m9!3m8!1s0x4713a27981b8990b:0xf51938e1a3189fe3!5m2!4m1!1i2!8m2!3d49.4175391!4d17.7734281!16s%2Fg%2F1tgfc2vh">Mapa</a>
                             </div>
                         </div>
