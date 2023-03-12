@@ -49,38 +49,8 @@ class Gift extends Component {
               <div className="container">
                     <div className="col-12">
                       <div className="section-title text-center">
-                          <h2>Gift Registration</h2>
+                          <h2>Svatební dary</h2>
                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.</p>
-                      </div>
-                  </div>
-                  <div className="row gift-item">
-                      <div className="col-lg-12">
-                        <Slider {...settings}>
-                            <div className="item">
-                                <img src={gift1} alt=""/>
-                            </div>
-                            <div className="item">
-                                <img src={gift2} alt=""/>
-                            </div>
-                            <div className="item">
-                                <img src={gift3} alt=""/>
-                            </div>
-                            <div className="item">
-                                <img src={gift4} alt=""/>
-                            </div>
-                            <div className="item">
-                                <img src={gift1} alt=""/>
-                            </div>
-                            <div className="item">
-                                <img src={gift2} alt=""/>
-                            </div>
-                            <div className="item">
-                                <img src={gift3} alt=""/>
-                            </div>
-                            <div className="item">
-                                <img src={gift4} alt=""/>
-                            </div>
-                            </Slider>
                       </div>
                   </div>
               </div>

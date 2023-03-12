@@ -23,7 +23,7 @@ welcome-area
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(#000, #649e93);
+    /* background-image: linear-gradient(#000, #649e93); */
     opacity: .8;
 }
 

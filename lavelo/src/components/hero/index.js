@@ -22,19 +22,16 @@ class SimpleSlider extends Component {
           <div id="home" className="item1">
               <div className="container">
                   <div className="slide-content">
-                      <div className="slide-subtitle">
-                          <h4>Budeme se brát</h4>
-                      </div>
                       <div className="slide-title">
-                          <h2>Uložte si datum</h2>
+                          <h2>Budeme se brát</h2>
                       </div>
-                      <div className="slide-text">
-                          <p>2. září 2023</p>
+                      <div className="slide-subtitle">
+                          <h4>2. září 2023 ve 13 hodin</h4>
                       </div>
                   </div>
               </div>
           </div>
-          <div className="item2">
+          {/* <div className="item2">
             <div className="container">
                 <div className="container">
                       <div className="slide-content">
@@ -50,7 +47,7 @@ class SimpleSlider extends Component {
                       </div>
                     </div>
                 </div>
-          </div>
+          </div> */}
         </Slider>
       );
     }

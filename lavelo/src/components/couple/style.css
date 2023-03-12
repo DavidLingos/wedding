@@ -9,12 +9,12 @@
 }
 
 .couple-img:hover.couple-img img {
-    transform: scale(1);
+    transform: scale(1.1);
 }
 
 .couple-img img {
     border-radius: 100%;
-    transform: scale(1.2);
+    transform: scale(1);
     transition: all .3s;
 }
 

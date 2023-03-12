@@ -35,7 +35,9 @@ const Story = () =>{
                                         </div>
                                         <h2>První setkání</h2>
                                         <span className="date">21. srpna 2019</span>
-                                        <p>Tady Kačenka napíše, jaké bylo naše první setkání</p>
+                                        <p>Poprvé jsme se potkali na venkovním koncertě v Brně, kde nás seznámili Ondra s Anet. 
+                                            Ten večer jsme si spolu povídali, možná jsme si na sebe zbyli, ale také jsme si naštěstí trochu rozuměli. 
+                                            Kačka s humorem prohlásila, že si ráda zpívá vánoční koledy nezávisle na ročním období, toho Davča hned využil a zazpíval si s ní Nesem vám noviny uprostřed léta v karaoke baru.</p>
                                         {/* <div className="story-button">
                                             <Link className="theme-btn" to="/"  title="READ MORE">READ MORE</Link>
                                         </div> */}
@@ -55,7 +57,7 @@ const Story = () =>{
                                         </div>
                                         <h2>Naše první rande</h2>
                                         <span className="date">květen 2020</span>
-                                        <p>Tady Kačenka napíše, jaké bylo naše první rande a jak mě na něj musela pozvat ona.</p>
+                                        <p>Ačkoliv v karaoke baru se snažil Davča udělat na Kačku dojem, tak s pozvánkou na první rande už musela přijít Kačka. Tehdy začínal covid, tak jsme si koupili pivo a seděli jsme v Lužánkách na lavičce. Bydleli jsme tehdy od sebe 3 minuty pěšky a Lužánky jsme měli přes cestu, tak to bylo velmi praktické. Další rande bylo jak jinak než v Lužánkách na lavičce (teď už občas teda zajdeme na rande i jinam).</p>
                                         {/* <div className="story-button">
                                             <Link className="theme-btn" to="/"  title="READ MORE">READ MORE</Link>
                                         </div> */}
@@ -75,7 +77,7 @@ const Story = () =>{
                                         </div>
                                         <h2>Zasnoubení</h2>
                                         <span className="date">28. října 2023</span>
-                                        <p>Zasnoubení</p>
+                                        <p>O ruku Davča požádal Kačku v lese u jeskyně Pekárna. Tam jsme už v roce 2020 přespali v hamakách, byla to velká romanťárna.</p>
                                         {/* <div className="story-button">
                                             <Link className="theme-btn" to="/"  title="READ MORE">READ MORE</Link>
                                         </div> */}

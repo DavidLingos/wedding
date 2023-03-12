@@ -27,7 +27,7 @@ const Homepage = () => {
            <Location/>
            {/* <Gallery/> */}
            <Rsvp/>
-           {/* <Gift/> */}
+           <Gift/>
        </div>
     )
 }
