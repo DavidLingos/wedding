@@ -88,8 +88,7 @@
 
 @media(max-width:991px){
   .slide-content {
-    margin: auto;
-    margin-right: auto;
+    margin-bottom: -60%;
   }
   .item1 .container {
     justify-content: center;
@@ -97,6 +96,9 @@
 }
 
 @media(max-width:767px){
+  .slide-content {
+    margin-bottom: -90%;
+  }
     .slide-content h2 {
         font-size: 35px;
     }

@@ -27,6 +27,9 @@ const Location = () => {
                                 <p>Místo jsme vybrali hlavně kvůli tomu, že rekreační středisko je uprostřed krásné přírody Hostýnských vrchů.<br/>
                                     Obřad se bude konat přímo na zahradě hotelu pod širým nebem.<br/>
                                     V restauraci je dost místa pro všech 80 pozvaných svatebčanů a prostorná terasa nechť bude místem, kde veselka se bude odehrávati. </p>
+                                <p>Obřad bude probíhat na zahradě a následně se přesuneme do vnitřních prostor restaurace na oběd. 
+                                    Oblečení prosím volte formálnější, ale hlavně takové abyste se v něm cítili pohodlně a mohli si s námi užít oslav až do nočních hodin. 
+                                    Večerní zábava bude probíhat na venkovní terase.</p>
                                 <a target="_blank" href="https://www.google.com/maps/place/Hotel+Pod+%C5%A0aumburkem/@49.4173571,17.7733728,15.22z/data=!4m9!3m8!1s0x4713a27981b8990b:0xf51938e1a3189fe3!5m2!4m1!1i2!8m2!3d49.4175391!4d17.7734281!16s%2Fg%2F1tgfc2vh">Mapa</a>
                             </div>
                         </div>

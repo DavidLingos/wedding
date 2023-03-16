@@ -22,7 +22,7 @@ const Couple = () => {
                                     <div className="couple-text">
                                         <div className="couple-content">
                                             <h3>Kateřina Václavičová</h3>
-                                            <p>Ahoj, jsem Kačka a tady vám o sobě něco napíšu.</p>
+                                            {/* <p>Ahoj, jsem Kačka a tady vám o sobě něco napíšu.</p> */}
                                         </div>
                                         {/* <div className="social-icon">
                                             <ul className="d-flex">
@@ -48,7 +48,7 @@ const Couple = () => {
                                     <div className="couple-text">
                                         <div className="couple-content">
                                             <h3>David Ling</h3>
-                                            <p>Ahoj, jsem David a tady vám o sobě něco napíšu</p>
+                                            {/* <p>Ahoj, jsem David a tady vám o sobě něco napíšu</p> */}
                                         </div>
                                         {/* <div className="social-icon">
                                             <ul className="d-flex">

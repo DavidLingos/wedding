@@ -20,8 +20,8 @@ const Homepage = () => {
            <Navbar/>
            <SimpleSlider/>
            <Saveday/>
-           <Couple/>
            <Welcome/>
+           <Couple/>
            <Story/>
            <People/>
            <Location/>

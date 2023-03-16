@@ -77,7 +77,9 @@ const Story = () =>{
                                         </div>
                                         <h2>Zasnoubení</h2>
                                         <span className="date">28. října 2023</span>
-                                        <p>O ruku Davča požádal Kačku v lese u jeskyně Pekárna. Tam jsme už v roce 2020 přespali v hamakách, byla to velká romanťárna.</p>
+                                        <p>O ruku jsem požádal Kačku na jednom z míst, kde se náš romantický vztah rodil. 
+                                            Kousek od jeskyně Pekárna v Moravském krasu, která tímto bude navždy zapsána v našich vzpomínkách.
+                                        </p>
                                         {/* <div className="story-button">
                                             <Link className="theme-btn" to="/"  title="READ MORE">READ MORE</Link>
                                         </div> */}

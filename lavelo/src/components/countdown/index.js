@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import CountDown from 'reactjs-countdown';
 import Countdown from 'react-countdown';
+import Sectiontitle from '../section-title'
 import './style.css'
  
 const countDownRenderer = ({ days, hours, minutes, seconds, completed }) => {
@@ -64,16 +65,13 @@ class Saveday extends Component {
 
     render() {
         return(
-            <div className="count-down-area">
+            <div className="count-down-area section-padding">
+                <Sectiontitle section={'Do svatby zbývá'}/>
                 <div className="count-down-sectionparallax">
                     <div className="container">
                         <div className="count-down-item count-down-item2">
                             <div className="row">
-                                <div className="col-12 col-md-4 section-area">
-                                    <div className="section-sub"></div>
-                                    <h2 className="big"><span>Čekání na.....</span> velký den</h2>
-                                </div>
-                                <div className="col-12 col-md-8 clock-area">
+                                <div className="col-12 clock-area">
                                     <div className="count-down-clock">
                                         <Countdown
                                             date="September 2, 2023"

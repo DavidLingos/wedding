@@ -50,7 +50,7 @@ class Gift extends Component {
                     <div className="col-12">
                       <div className="section-title text-center">
                           <h2>Svatební dary</h2>
-                          <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.</p>
+                          <p>Největším dárkem pro nás bude, když tento den strávíte s námi a užijete si ho. Pokud byste nás i přesto chtěli obdarovat, budeme rádi za jakýkoliv finanční příspěvek na naši společnou budoucnost či svatební oslavu.</p>
                       </div>
                   </div>
               </div>

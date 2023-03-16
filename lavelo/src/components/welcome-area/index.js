@@ -10,8 +10,8 @@ const Welcome = () =>{
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="welcome-content">
-                            <h2>Vítejte na našich stránkách</h2>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or less normal distribution of letters</p>
+                            <h2>Vítej na našich stránkách</h2>
+                            <p>Tyto stránky jsme vytvořili jako doplněk k pozvánce na naši svatbu. Pokud jsi zde, tak se tu hezky porozhlédni a budeme se těšit na to, že tě na naší svatbě uvidíme.</p>
                             <div className="btn"><AnchorLink href="#event">Kdy a kde</AnchorLink></div>
                             <div className="btn"><AnchorLink href="#rsvp">Potvrzení účasti</AnchorLink></div>
                         </div>
