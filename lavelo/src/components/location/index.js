@@ -22,7 +22,7 @@ const Location = () => {
                         <div className="col-lg-7">
                             <div className="ceromony-content">
                                 <h3>Svatba</h3>
-                                <span>Sobota, 2. září 2023, 12:00 - ?</span>
+                                <span>Sobota, 2. září 2023, 13:00 - ?</span>
                                 <span>Hotel Pod Šaumburkem, Rajnochovice 17, 768 71 Rajnochovice</span>
                                 <p>Místo jsme vybrali hlavně kvůli tomu, že rekreační středisko je uprostřed krásné přírody Hostýnských vrchů.<br/>
                                     Obřad se bude konat přímo na zahradě hotelu pod širým nebem.<br/>

@@ -48,7 +48,7 @@ export default class MobileMenu extends Component {
                         </Collapse> */}
                         <li><AnchorLink href='#couple'>My dva</AnchorLink></li>
                         <li><AnchorLink href='#story'>Náš příběh</AnchorLink></li>
-                        <li><AnchorLink href='#people'>Lidé</AnchorLink></li>
+                        <li><AnchorLink href='#people'>Svědkové</AnchorLink></li>
                         <li><AnchorLink href='#event'>Kdy a kde</AnchorLink></li>
                         {/* <li><AnchorLink href='#gallery'>Gallery</AnchorLink></li> */}
                         <li><AnchorLink  href='#rsvp'>Potvrzení účasti</AnchorLink></li>
