@@ -22,7 +22,10 @@ const Couple = () => {
                                     <div className="couple-text">
                                         <div className="couple-content">
                                             <h3>Kateřina Václavičová</h3>
-                                            {/* <p>Ahoj, jsem Kačka a tady vám o sobě něco napíšu.</p> */}
+                                            <p>&quot;Ačkoliv je svatba teprve začátek všeho, co nás s Davčou ve společném životě ještě čeká, 
+                                                tak budu ráda, když to společně pořádně oslavíme. Doufám, že na naší svatbě bude čas na povídání, 
+                                                moudrá slova, tancování, zpívání a hlavně hromadu radosti a pohody. 
+                                                Těším se z toho, že u našeho ANO budete s námi.&quot;</p>
                                         </div>
                                         {/* <div className="social-icon">
                                             <ul className="d-flex">
@@ -48,7 +51,10 @@ const Couple = () => {
                                     <div className="couple-text">
                                         <div className="couple-content">
                                             <h3>David Ling</h3>
-                                            {/* <p>Ahoj, jsem David a tady vám o sobě něco napíšu</p> */}
+                                            <p>&quot;Kačka je přesně tou ženou, kterou jsem si vysnil
+                                                a já se moc těším na to, že se budeme brát před všemi lidmi, se kterými v našem
+                                                životě počítáme a kteří budou moct počítat s námi.&quot;
+                                            </p>
                                         </div>
                                         {/* <div className="social-icon">
                                             <ul className="d-flex">
