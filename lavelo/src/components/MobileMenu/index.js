@@ -32,7 +32,7 @@ export default class MobileMenu extends Component {
                 <div className={`mobileMenu ${isMenuShow ? 'show' : ''}`}>
                     {/* <div className="clox" onClick={this.menuHandler}>Close Me</div> */}
                     <div className="logo2">
-                        <h2><Link to='/home'>Harry & Nancy</Link></h2>
+                        <h2><Link to='/home'>David & Kačka</Link></h2>
                     </div>
                     <ul className="responsivemenu">
                         <li><Link to='/'>Domů</Link></li>
