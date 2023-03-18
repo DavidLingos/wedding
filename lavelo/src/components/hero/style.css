@@ -112,6 +112,9 @@
     .item1,.item2{
            height: 580px;
     }
+    .item1 {
+      background-position-x: -50px;
+    }
 }
 
 
