@@ -76,7 +76,7 @@ const Story = () =>{
                                             </div>
                                         </div>
                                         <h2>Zasnoubení</h2>
-                                        <span className="date">28. října 2023</span>
+                                        <span className="date">28. října 2022</span>
                                         <p>O ruku jsem požádal Kačku na jednom z míst, kde se náš romantický vztah rodil. 
                                             Kousek od jeskyně Pekárna v Moravském krasu, která tímto bude navždy zapsána v našich vzpomínkách.
                                         </p>

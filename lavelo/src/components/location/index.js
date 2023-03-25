@@ -30,6 +30,10 @@ const Location = () => {
                                 <p>Obřad bude probíhat na zahradě a následně se přesuneme do vnitřních prostor restaurace na oběd. 
                                     Oblečení prosím volte formálnější, ale hlavně takové abyste se v něm cítili pohodlně a mohli si s námi užít oslav až do nočních hodin. 
                                     Večerní zábava bude probíhat na venkovní terase.</p>
+                                <p>
+                                    Praktické info: příjezd bude možný už od 11:00 hlavně kvůli tomu, aby se všichni, kteří budou na místě nocovat,
+                                    stihli do 13. hodiny ubytovat. Čtyřnohé mazlíčky prosím nechejte na tento den někde na hlídání.
+                                </p>
                                 <a target="_blank" href="https://www.google.com/maps/place/Hotel+Pod+%C5%A0aumburkem/@49.4173571,17.7733728,15.22z/data=!4m9!3m8!1s0x4713a27981b8990b:0xf51938e1a3189fe3!5m2!4m1!1i2!8m2!3d49.4175391!4d17.7734281!16s%2Fg%2F1tgfc2vh">Mapa</a>
                             </div>
                         </div>
