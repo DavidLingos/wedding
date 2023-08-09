@@ -28,7 +28,7 @@ const People = (props) => {
             <div className="container">
                 <Sectiontitle section={'Svědek a svědkyně'}/>
                 <div className="person-area-menu">
-                <div className="Groomsman-wrap">
+                <div className="Groomsman-wrap text-center">
                                 <div className="row justify-content-center">
                                     <div className="col-lg-4 col-md-6 col-sm-6">
                                         <div className="person-wrap">
@@ -67,6 +67,7 @@ const People = (props) => {
                                         </div>
                                     </div>
                                 </div>
+                                V případě jakýchkoliv dotazů, o kterých bychom neměli vědět, se neváhejte obrátit na naše svědky (Ondra: 602 961 874, Terka: 776 077 161).
                             </div>
                 </div>
             </div>
